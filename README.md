@@ -1,7 +1,6 @@
 # Budget Tracker
 [![License: MIT](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
-## Purpose
-# Social Network API
+
 [![License: MIT](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 ## Purpose
 GIVEN a budget tracker without an internet connection
